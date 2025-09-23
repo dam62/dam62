@@ -1,5 +1,13 @@
-## Hi there 👋
+# Proyectos
+## Desarrollo de Aplicaciones Multiplataformas
+### IES Alonso de Ercilla
 
+---
+
+#### Proyectos desarrollados
+**Proyectos en C# y XAML**
+1. Gestión de bolígrafos
+2. Almacen de lo que sea
 <!--
 **dam62/dam62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
