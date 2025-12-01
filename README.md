@@ -7,6 +7,9 @@
 1. [Gestión de bolígrafos](https://github.com/dam62/Bindings)
 2. [Almacen de reservas de un restaurante](https://github.com/dam62/PrimerProyectoVicente.git)
 3. [Gestión de productos guardados en supabase con autentificación en Google](https://github.com/dam62/ProyectoPrimeraEvaluacion.git)
+
+**Proyectos con Odoo**
+1. []
 ---
 ### Portafolio web
 [Portafolio web](https://dam62.github.io)
