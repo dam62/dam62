@@ -9,7 +9,8 @@
 3. [Gestión de productos guardados en supabase con autentificación en Google](https://github.com/dam62/ProyectoPrimeraEvaluacion.git)
 
 **Proyectos con Odoo**
-1. []
+1. [App Odoo Tienda online](https://github.com/dam62/tiendaonline.git)
+2. [Modelo complementario excursiones](https://github.com/dam62/Excursiones.git)
 ---
 ### Portafolio web
 [Portafolio web](https://dam62.github.io)
