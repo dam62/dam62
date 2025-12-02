@@ -2,6 +2,10 @@
 ## Desarrollo de Aplicaciones Multiplataformas
 ### IES Alonso de Ercilla
 ---
+### Soy Vicente, estudiante de Desarrollo de Aplicaciones Multiplataforma.
+### Me gusta crear aplicaciones útiles, trabajar con lenguaje java y aprender nuevas tecnologías.
+### Aqui encontraras mis proyectos más destacados.
+---
 #### Proyectos desarrollados
 **Proyectos en C# y XAML**
 1. [Gestión de bolígrafos](https://github.com/dam62/Bindings)
@@ -12,8 +16,7 @@
 1. [App Odoo Tienda online](https://github.com/dam62/tiendaonline.git)
 2. [Modelo complementario excursiones](https://github.com/dam62/Excursiones.git)
 ---
-### Portafolio web
-[Portafolio web](https://dam62.github.io)
+### [Portafolio web](https://dam62.github.io)
 <!--
 **dam62/dam62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
