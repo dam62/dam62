@@ -2,7 +2,7 @@
 ## Desarrollo de Aplicaciones Multiplataformas
 ### IES Alonso de Ercilla
 ---
-### Soy Vicente, estudiante de Desarrollo de Aplicaciones Multiplataforma.
+### Me llamo Vicente, soy estudiante de Desarrollo de Aplicaciones Multiplataforma.
 ### Me gusta crear aplicaciones útiles, trabajar con lenguaje java y aprender nuevas tecnologías.
 ### Aqui encontraras mis proyectos más destacados.
 ---
